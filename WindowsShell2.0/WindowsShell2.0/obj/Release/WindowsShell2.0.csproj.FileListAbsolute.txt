@@ -1,0 +1,10 @@
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\bin\Release\WindowsShell2.0.exe
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\bin\Release\WindowsShell2.0.pdb
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\obj\Release\WindowsShell2._0.ProjectInstaller.resources
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\obj\Release\WindowsShell2._0.Service1.resources
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\obj\Release\WindowsShell2.0.csproj.GenerateResource.cache
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\obj\Release\WindowsShell2.0.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\obj\Release\WindowsShell2.0.exe
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\obj\Release\WindowsShell2.0.pdb
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\bin\Release\WindowsShell2.0.exe.config
+C:\Users\user\source\repos\WindowsShell2.0\WindowsShell2.0\obj\Release\WindowsShell2.0.csprojAssemblyReference.cache
