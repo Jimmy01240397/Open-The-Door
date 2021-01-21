@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1610965114 source:c:\users\jimmy\desktop\super_mod_lol_skin\main.cpp
+	<sys/types.h>
+	<sys/stat.h>
+	<dirent.h>
+	<errno.h>
+	<vector>
+	<stdlib.h>
+	<string>
+	<iostream>
+	<algorithm>
+	<fstream>
+	<windows.h>
+	"base64.h"
+
+1610822753 source:c:\users\jimmy\desktop\super_mod_lol_skin\resources\icon.rc
+
+1610959529 c:\users\jimmy\desktop\super_mod_lol_skin\base64.h
+

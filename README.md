@@ -1,0 +1,21 @@
+於受害者電腦上執行Super_MOD_LOL_SKIN.exe後門便會安裝往後只要重開機便會自動執行後門。
+安裝後門的同時會順便安裝cat,zip,unzip等工具。
+
+
+# JSRat-Py
+This is my implementation of JSRat.ps1 in Python so you can now run the attack server from any OS instead of being limited to a Windows OS with Powershell enabled.
+
+Added support to handle client invocation via either rundll32 or regsvr32 methods
+
+   References & Original Project:<br/>
+      regsvr32: https://gist.github.com/subTee/24c7d8e1ff0f5602092f58cbb3f7d302<br/>
+      rundll32: https://gist.github.com/subTee/f1603fa5c15d5f8825c0<br/>
+      http://en.wooyun.io/2016/01/18/JavaScript-Backdoor.html<br/>
+      http://en.wooyun.io/2016/02/04/42.html<br/>
+
+Video Demos:<br/>
+https://youtu.be/0nx04OaIG04<br/>
+https://youtu.be/tGIndE7aexI<br/>
+
+Big Thanks to SubTee!
+
